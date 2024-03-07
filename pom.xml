@@ -15,10 +15,10 @@
         <qameta.allure>2.21.0</qameta.allure>
         <allure.version>2.13.0</allure.version>
         <aspectj.version>1.9.19</aspectj.version>
-        <rest.assured>5.3.0</rest.assured>
-        <testng.version>7.0.0</testng.version>
-        <jsoup.version>1.15.4</jsoup.version>
-        <jackson.version>2.14.2</jackson.version>
+        <rest.assured>5.4.0</rest.assured>
+        <testng.version>7.9.0</testng.version>
+        <jsoup.version>1.17.2</jsoup.version>
+        <jackson.version>2.16.1</jackson.version>
     </properties>
 
     <dependencies>
